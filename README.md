@@ -2,12 +2,12 @@
 
 작은 배움을 카테고리별로 모아 둔 개인 저장소.
 
-_총 7개_
+_총 10개_
 
 ## Categories
-- [ai](#ai) (5)
+- [ai](#ai) (7)
 - [database](#database) (1)
-- [web](#web) (1)
+- [web](#web) (2)
 
 ### ai
 - [ego lite로 채용 지원 한 사이클 자동화하기](ai/ego-lite-job-application-cycle.md)
@@ -15,9 +15,12 @@ _총 7개_
 - [Jev for Images: 초고속·초저가 이미지 분류·검수 모델 (TypeSafe)](ai/jev-for-images-overview.md)
 - [RAG 평가 기초: 골드 데이터, 지표, 도구 (RAG Evaluation)](ai/rag-evaluation-basics.md)
 - [REA: 에이전트로 앱·바이너리 동작을 역공학하는 MCP (Reverse Engineer Anything)](ai/rea-reverse-engineering-mcp.md)
+- [The Moss Keeper: "HTML 코드만으로 만든 영상" 주장 검증 (Embedded MP4)](ai/moss-keeper-embedded-video-check.md)
+- [스택 한 문장으로 아키텍처 다이어그램 그리기 (stack-diagram 스킬)](ai/stack-diagram-skill.md)
 
 ### database
 - [Redis 캐시 이중화: 캐시를 믿으면 안 되는 이유 (Redundancy)](database/redis-cache-redundancy.md)
 
 ### web
+- [에어비앤비 웹 역공학 분석](web/airbnb-reverse-engineering.md)
 - [에어비앤비 웹사이트 분석 (REA 런타임 캡처)](web/airbnb-site-analysis.md)
